@@ -1,0 +1,1622 @@
+[
+	{
+		"County": "Darlington UA",
+		"Income": 30318
+	},
+	{
+		"County": "Hartlepool UA",
+		"Income": 25602
+	},
+	{
+		"County": "Middlesbrough UA",
+		"Income": 25967
+	},
+	{
+		"County": "Redcar and Cleveland UA",
+		"Income": 26201
+	},
+	{
+		"County": "Stockton-on-Tees UA",
+		"Income": 28725
+	},
+	{
+		"County": "County Durham UA",
+		"Income": 29572
+	},
+	{
+		"County": "Northumberland UA",
+		"Income": 29867
+	},
+	{
+		"County": "Tyne and Wear Met County",
+		"Income": 29105
+	},
+	{
+		"County": "  Gateshead",
+		"Income": 28530
+	},
+	{
+		"County": "  Newcastle upon Tyne",
+		"Income": 33037
+	},
+	{
+		"County": "  North Tyneside",
+		"Income": 30517
+	},
+	{
+		"County": "  South Tyneside",
+		"Income": 28013
+	},
+	{
+		"County": "  Sunderland",
+		"Income": 25661
+	},
+	{
+		"County": "North West ",
+		"Income": 30248
+	},
+	{
+		"County": "Blackburn with Darwen UA",
+		"Income": 24844
+	},
+	{
+		"County": "Blackpool UA",
+		"Income": 23410
+	},
+	{
+		"County": "Halton UA",
+		"Income": 30873
+	},
+	{
+		"County": "Warrington UA",
+		"Income": 32912
+	},
+	{
+		"County": "Cheshire East UA",
+		"Income": 35735
+	},
+	{
+		"County": "Cheshire West and Chester ",
+		"Income": 33538
+	},
+	{
+		"County": "Cumbria",
+		"Income": 29693
+	},
+	{
+		"County": "  Allerdale",
+		"Income": 31856
+	},
+	{
+		"County": "  Barrow-in-Furness",
+		"Income": 30999
+	},
+	{
+		"County": "  Carlisle",
+		"Income": 25514
+	},
+	{
+		"County": "  Copeland",
+		"Income": 32571
+	},
+	{
+		"County": "  Eden",
+		"Income": 27943
+	},
+	{
+		"County": "  South Lakeland",
+		"Income": 29481
+	},
+	{
+		"County": "Greater Manchester Met County",
+		"Income": 29983
+	},
+	{
+		"County": "  Bolton",
+		"Income": 29955
+	},
+	{
+		"County": "  Bury",
+		"Income": 31244
+	},
+	{
+		"County": "  Manchester",
+		"Income": 28258
+	},
+	{
+		"County": "  Oldham",
+		"Income": 27176
+	},
+	{
+		"County": "  Rochdale",
+		"Income": 27871
+	},
+	{
+		"County": "  Salford",
+		"Income": 30154
+	},
+	{
+		"County": "  Stockport",
+		"Income": 33347
+	},
+	{
+		"County": "  Tameside",
+		"Income": 28795
+	},
+	{
+		"County": "  Trafford",
+		"Income": 35827
+	},
+	{
+		"County": "  Wigan",
+		"Income": 28537
+	},
+	{
+		"County": "Lancashire",
+		"Income": 29519
+	},
+	{
+		"County": "  Burnley",
+		"Income": 27945
+	},
+	{
+		"County": "  Chorley",
+		"Income": 30905
+	},
+	{
+		"County": "  Fylde",
+		"Income": 31064
+	},
+	{
+		"County": "  Hyndburn",
+		"Income": 30264
+	},
+	{
+		"County": "  Lancaster",
+		"Income": 28253
+	},
+	{
+		"County": "  Pendle",
+		"Income": 25481
+	},
+	{
+		"County": "  Preston",
+		"Income": 26130
+	},
+	{
+		"County": "  Ribble Valley",
+		"Income": 34439
+	},
+	{
+		"County": "  Rossendale",
+		"Income": 28045
+	},
+	{
+		"County": "  South Ribble",
+		"Income": 29305
+	},
+	{
+		"County": "  West Lancashire",
+		"Income": 33526
+	},
+	{
+		"County": "  Wyre",
+		"Income": 30915
+	},
+	{
+		"County": "Merseyside Met County",
+		"Income": 29833
+	},
+	{
+		"County": "  Knowsley",
+		"Income": 28817
+	},
+	{
+		"County": "  Liverpool",
+		"Income": 29159
+	},
+	{
+		"County": "  St. Helens",
+		"Income": 31954
+	},
+	{
+		"County": "  Sefton",
+		"Income": 28417
+	},
+	{
+		"County": "  Wirral",
+		"Income": 31182
+	},
+	{
+		"County": "Yorkshire and The Humber ",
+		"Income": 30172
+	},
+	{
+		"County": "East Riding of Yorkshire UA",
+		"Income": 31118
+	},
+	{
+		"County": "Kingston upon Hull UA",
+		"Income": 24271
+	},
+	{
+		"County": "North East Lincolnshire UA",
+		"Income": 28683
+	},
+	{
+		"County": "North Lincolnshire UA",
+		"Income": 29829
+	},
+	{
+		"County": "York UA",
+		"Income": 32222
+	},
+	{
+		"County": "North Yorkshire",
+		"Income": 30846
+	},
+	{
+		"County": "  Craven",
+		"Income": 31720
+	},
+	{
+		"County": "  Hambleton",
+		"Income": 30569
+	},
+	{
+		"County": "  Harrogate",
+		"Income": 33547
+	},
+	{
+		"County": "  Richmondshire",
+		"Income": 28590
+	},
+	{
+		"County": "  Ryedale",
+		"Income": 27499
+	},
+	{
+		"County": "  Scarborough",
+		"Income": 26385
+	},
+	{
+		"County": "  Selby",
+		"Income": 32846
+	},
+	{
+		"County": "South Yorkshire Met County",
+		"Income": 29234
+	},
+	{
+		"County": "  Barnsley",
+		"Income": 27967
+	},
+	{
+		"County": "  Doncaster",
+		"Income": 30401
+	},
+	{
+		"County": "  Rotherham",
+		"Income": 27853
+	},
+	{
+		"County": "  Sheffield",
+		"Income": 29920
+	},
+	{
+		"County": "West Yorkshire Met County",
+		"Income": 31025
+	},
+	{
+		"County": "  Bradford",
+		"Income": 29812
+	},
+	{
+		"County": "  Calderdale",
+		"Income": 29763
+	},
+	{
+		"County": "  Kirklees",
+		"Income": 29308
+	},
+	{
+		"County": "  Leeds",
+		"Income": 34015
+	},
+	{
+		"County": "  Wakefield",
+		"Income": 28743
+	},
+	{
+		"County": "East Midlands ",
+		"Income": 30042
+	},
+	{
+		"County": "Derby UA",
+		"Income": 29456
+	},
+	{
+		"County": "Leicester UA",
+		"Income": 25906
+	},
+	{
+		"County": "North Northamptonshire UA",
+		"Income": 30994
+	},
+	{
+		"County": "Nottingham UA",
+		"Income": 24376
+	},
+	{
+		"County": "Rutland UA",
+		"Income": 36856
+	},
+	{
+		"County": "West Northamptonshire UA",
+		"Income": 34500
+	},
+	{
+		"County": "Derbyshire",
+		"Income": 29741
+	},
+	{
+		"County": "  Amber Valley",
+		"Income": 29444
+	},
+	{
+		"County": "  Bolsover",
+		"Income": 25947
+	},
+	{
+		"County": "  Chesterfield",
+		"Income": 28490
+	},
+	{
+		"County": "  Derbyshire Dales",
+		"Income": 27735
+	},
+	{
+		"County": "  Erewash",
+		"Income": 31794
+	},
+	{
+		"County": "  High Peak",
+		"Income": 30521
+	},
+	{
+		"County": "  North East Derbyshire",
+		"Income": 30033
+	},
+	{
+		"County": "  South Derbyshire",
+		"Income": 31510
+	},
+	{
+		"County": "Leicestershire",
+		"Income": 31833
+	},
+	{
+		"County": "  Blaby",
+		"Income": 33438
+	},
+	{
+		"County": "  Charnwood",
+		"Income": 29989
+	},
+	{
+		"County": "  Harborough",
+		"Income": 37702
+	},
+	{
+		"County": "  Hinckley and Bosworth",
+		"Income": 29830
+	},
+	{
+		"County": "  Melton",
+		"Income": 28043
+	},
+	{
+		"County": "  North West Leicestershire",
+		"Income": 33352
+	},
+	{
+		"County": "  Oadby and Wigston",
+		"Income": 27819
+	},
+	{
+		"County": "Lincolnshire",
+		"Income": 28980
+	},
+	{
+		"County": "  Boston",
+		"Income": 25400
+	},
+	{
+		"County": "  East Lindsey",
+		"Income": 27584
+	},
+	{
+		"County": "  Lincoln",
+		"Income": 28480
+	},
+	{
+		"County": "  North Kesteven",
+		"Income": 29318
+	},
+	{
+		"County": "  South Holland",
+		"Income": 29194
+	},
+	{
+		"County": "  South Kesteven",
+		"Income": 31086
+	},
+	{
+		"County": "  West Lindsey",
+		"Income": 29966
+	},
+	{
+		"County": "Nottinghamshire",
+		"Income": 29716
+	},
+	{
+		"County": "  Ashfield",
+		"Income": 28767
+	},
+	{
+		"County": "  Bassetlaw",
+		"Income": 27210
+	},
+	{
+		"County": "  Broxtowe",
+		"Income": 32863
+	},
+	{
+		"County": "  Gedling",
+		"Income": 28056
+	},
+	{
+		"County": "  Mansfield",
+		"Income": 26832
+	},
+	{
+		"County": "  Newark and Sherwood",
+		"Income": 28722
+	},
+	{
+		"County": "  Rushcliffe",
+		"Income": 35292
+	},
+	{
+		"County": "West Midlands ",
+		"Income": 30884
+	},
+	{
+		"County": "Herefordshire UA",
+		"Income": 27391
+	},
+	{
+		"County": "Stoke-on-Trent UA",
+		"Income": 26267
+	},
+	{
+		"County": "Telford and Wrekin UA",
+		"Income": 28687
+	},
+	{
+		"County": "Shropshire UA",
+		"Income": 31078
+	},
+	{
+		"County": "Staffordshire",
+		"Income": 30971
+	},
+	{
+		"County": "  Cannock Chase",
+		"Income": 26699
+	},
+	{
+		"County": "  East Staffordshire",
+		"Income": 30847
+	},
+	{
+		"County": "  Lichfield",
+		"Income": 36651
+	},
+	{
+		"County": "  Newcastle-under-Lyme",
+		"Income": 27028
+	},
+	{
+		"County": "  South Staffordshire",
+		"Income": 31128
+	},
+	{
+		"County": "  Stafford",
+		"Income": 34630
+	},
+	{
+		"County": "  Staffordshire Moorlands",
+		"Income": 30603
+	},
+	{
+		"County": "  Tamworth",
+		"Income": 28616
+	},
+	{
+		"County": "Warwickshire",
+		"Income": 34659
+	},
+	{
+		"County": "  North Warwickshire",
+		"Income": 33797
+	},
+	{
+		"County": "  Nuneaton and Bedworth",
+		"Income": 28759
+	},
+	{
+		"County": "  Rugby",
+		"Income": 34326
+	},
+	{
+		"County": "  Stratford-on-Avon",
+		"Income": 36940
+	},
+	{
+		"County": "  Warwick",
+		"Income": 38938
+	},
+	{
+		"County": "West Midlands Met County",
+		"Income": 30529
+	},
+	{
+		"County": "  Birmingham",
+		"Income": 29949
+	},
+	{
+		"County": "  Coventry",
+		"Income": 31736
+	},
+	{
+		"County": "  Dudley",
+		"Income": 29416
+	},
+	{
+		"County": "  Sandwell",
+		"Income": 27980
+	},
+	{
+		"County": "  Solihull",
+		"Income": 39183
+	},
+	{
+		"County": "  Walsall",
+		"Income": 26154
+	},
+	{
+		"County": "  Wolverhampton",
+		"Income": 32641
+	},
+	{
+		"County": "Worcestershire",
+		"Income": 31584
+	},
+	{
+		"County": "  Bromsgrove",
+		"Income": 35260
+	},
+	{
+		"County": "  Malvern Hills",
+		"Income": 32046
+	},
+	{
+		"County": "  Redditch",
+		"Income": 30488
+	},
+	{
+		"County": "  Worcester",
+		"Income": 33375
+	},
+	{
+		"County": "  Wychavon",
+		"Income": 28816
+	},
+	{
+		"County": "  Wyre Forest",
+		"Income": 29622
+	},
+	{
+		"County": "East ",
+		"Income": 34888
+	},
+	{
+		"County": "Bedford UA",
+		"Income": 33852
+	},
+	{
+		"County": "Central Bedfordshire UA",
+		"Income": 36988
+	},
+	{
+		"County": "Luton UA",
+		"Income": 28032
+	},
+	{
+		"County": "Peterborough UA",
+		"Income": 29370
+	},
+	{
+		"County": "Southend-on-Sea UA",
+		"Income": 35412
+	},
+	{
+		"County": "Thurrock UA",
+		"Income": 34156
+	},
+	{
+		"County": "Cambridgeshire",
+		"Income": 35996
+	},
+	{
+		"County": "  Cambridge",
+		"Income": 39909
+	},
+	{
+		"County": "  East Cambridgeshire",
+		"Income": 36736
+	},
+	{
+		"County": "  Fenland",
+		"Income": 29811
+	},
+	{
+		"County": "  Huntingdonshire",
+		"Income": 32399
+	},
+	{
+		"County": "  South Cambridgeshire",
+		"Income": 40105
+	},
+	{
+		"County": "Essex",
+		"Income": 36836
+	},
+	{
+		"County": "  Basildon",
+		"Income": 33398
+	},
+	{
+		"County": "  Braintree",
+		"Income": 34411
+	},
+	{
+		"County": "  Brentwood",
+		"Income": 56097
+	},
+	{
+		"County": "  Castle Point",
+		"Income": 35537
+	},
+	{
+		"County": "  Chelmsford",
+		"Income": 36828
+	},
+	{
+		"County": "  Colchester",
+		"Income": 36704
+	},
+	{
+		"County": "  Epping Forest",
+		"Income": 40872
+	},
+	{
+		"County": "  Harlow",
+		"Income": 29180
+	},
+	{
+		"County": "  Maldon",
+		"Income": "x"
+	},
+	{
+		"County": "  Rochford",
+		"Income": 39835
+	},
+	{
+		"County": "  Tendring",
+		"Income": 31871
+	},
+	{
+		"County": "  Uttlesford",
+		"Income": "x"
+	},
+	{
+		"County": "Hertfordshire",
+		"Income": 41054
+	},
+	{
+		"County": "  Broxbourne",
+		"Income": 39457
+	},
+	{
+		"County": "  Dacorum",
+		"Income": 34983
+	},
+	{
+		"County": "  East Hertfordshire",
+		"Income": 50553
+	},
+	{
+		"County": "  Hertsmere",
+		"Income": 32125
+	},
+	{
+		"County": "  North Hertfordshire",
+		"Income": 40413
+	},
+	{
+		"County": "  St Albans",
+		"Income": 56468
+	},
+	{
+		"County": "  Stevenage",
+		"Income": 31170
+	},
+	{
+		"County": "  Three Rivers",
+		"Income": 43085
+	},
+	{
+		"County": "  Watford",
+		"Income": 36794
+	},
+	{
+		"County": "  Welwyn Hatfield",
+		"Income": 33782
+	},
+	{
+		"County": "Norfolk",
+		"Income": 28797
+	},
+	{
+		"County": "  Breckland",
+		"Income": 26526
+	},
+	{
+		"County": "  Broadland",
+		"Income": 31596
+	},
+	{
+		"County": "  Great Yarmouth",
+		"Income": 27611
+	},
+	{
+		"County": "  King's Lynn and West Norfolk",
+		"Income": 28449
+	},
+	{
+		"County": "  North Norfolk",
+		"Income": 25505
+	},
+	{
+		"County": "  Norwich",
+		"Income": 29927
+	},
+	{
+		"County": "  South Norfolk",
+		"Income": 30801
+	},
+	{
+		"County": "Suffolk",
+		"Income": 30491
+	},
+	{
+		"County": "  Babergh",
+		"Income": 33212
+	},
+	{
+		"County": "  Ipswich",
+		"Income": 28637
+	},
+	{
+		"County": "  Mid Suffolk",
+		"Income": 31515
+	},
+	{
+		"County": "  East Suffolk",
+		"Income": 28665
+	},
+	{
+		"County": "  West Suffolk",
+		"Income": 32964
+	},
+	{
+		"County": "London ",
+		"Income": 44190
+	},
+	{
+		"County": "Inner London",
+		"Income": 50767
+	},
+	{
+		"County": "  Camden",
+		"Income": 48707
+	},
+	{
+		"County": "  City of London",
+		"Income": "x"
+	},
+	{
+		"County": "  Hackney",
+		"Income": 45546
+	},
+	{
+		"County": "  Hammersmith and Fulham",
+		"Income": 53092
+	},
+	{
+		"County": "  Haringey",
+		"Income": 40826
+	},
+	{
+		"County": "  Islington",
+		"Income": "x"
+	},
+	{
+		"County": "  Kensington and Chelsea",
+		"Income": "x"
+	},
+	{
+		"County": "  Lambeth",
+		"Income": 48060
+	},
+	{
+		"County": "  Lewisham",
+		"Income": 38066
+	},
+	{
+		"County": "  Newham",
+		"Income": 33173
+	},
+	{
+		"County": "  Southwark",
+		"Income": 45685
+	},
+	{
+		"County": "  Tower Hamlets",
+		"Income": 46716
+	},
+	{
+		"County": "  Wandsworth",
+		"Income": 65006
+	},
+	{
+		"County": "  Westminster",
+		"Income": 56763
+	},
+	{
+		"County": "Outer London",
+		"Income": 40041
+	},
+	{
+		"County": "  Barking and Dagenham",
+		"Income": 30006
+	},
+	{
+		"County": "  Barnet",
+		"Income": 39511
+	},
+	{
+		"County": "  Bexley",
+		"Income": 41164
+	},
+	{
+		"County": "  Brent",
+		"Income": 38719
+	},
+	{
+		"County": "  Bromley",
+		"Income": 48929
+	},
+	{
+		"County": "  Croydon",
+		"Income": 38172
+	},
+	{
+		"County": "  Ealing",
+		"Income": 41949
+	},
+	{
+		"County": "  Enfield",
+		"Income": 34060
+	},
+	{
+		"County": "  Greenwich",
+		"Income": 40999
+	},
+	{
+		"County": "  Harrow",
+		"Income": 37118
+	},
+	{
+		"County": "  Havering",
+		"Income": 36257
+	},
+	{
+		"County": "  Hillingdon",
+		"Income": 37670
+	},
+	{
+		"County": "  Hounslow",
+		"Income": 37964
+	},
+	{
+		"County": "  Kingston upon Thames",
+		"Income": 46327
+	},
+	{
+		"County": "  Merton",
+		"Income": 42922
+	},
+	{
+		"County": "  Redbridge",
+		"Income": 36735
+	},
+	{
+		"County": "  Richmond upon Thames",
+		"Income": 59511
+	},
+	{
+		"County": "  Sutton",
+		"Income": 35104
+	},
+	{
+		"County": "  Waltham Forest",
+		"Income": 39534
+	},
+	{
+		"County": "South East ",
+		"Income": 36800
+	},
+	{
+		"County": "Bracknell Forest UA",
+		"Income": 37449
+	},
+	{
+		"County": "Brighton and Hove UA",
+		"Income": 32661
+	},
+	{
+		"County": "Buckinghamshire UA",
+		"Income": 46025
+	},
+	{
+		"County": "Isle of Wight UA",
+		"Income": 26234
+	},
+	{
+		"County": "Medway UA",
+		"Income": 31964
+	},
+	{
+		"County": "Milton Keynes UA",
+		"Income": 36796
+	},
+	{
+		"County": "Portsmouth UA",
+		"Income": 30289
+	},
+	{
+		"County": "Reading UA",
+		"Income": 36019
+	},
+	{
+		"County": "Slough UA",
+		"Income": 35155
+	},
+	{
+		"County": "Southampton UA",
+		"Income": 31876
+	},
+	{
+		"County": "West Berkshire UA",
+		"Income": 36324
+	},
+	{
+		"County": "Windsor and Maidenhead UA",
+		"Income": 49464
+	},
+	{
+		"County": "Wokingham ",
+		"Income": 46994
+	},
+	{
+		"County": "East Sussex",
+		"Income": 31377
+	},
+	{
+		"County": "  Eastbourne",
+		"Income": 28386
+	},
+	{
+		"County": "  Hastings",
+		"Income": 27686
+	},
+	{
+		"County": "  Lewes",
+		"Income": 38056
+	},
+	{
+		"County": "  Rother",
+		"Income": 30809
+	},
+	{
+		"County": "  Wealden",
+		"Income": 32191
+	},
+	{
+		"County": "Hampshire",
+		"Income": 35548
+	},
+	{
+		"County": "  Basingstoke and Deane",
+		"Income": 39939
+	},
+	{
+		"County": "  East Hampshire",
+		"Income": 36310
+	},
+	{
+		"County": "  Eastleigh",
+		"Income": 32723
+	},
+	{
+		"County": "  Fareham",
+		"Income": 35180
+	},
+	{
+		"County": "  Gosport",
+		"Income": 30104
+	},
+	{
+		"County": "  Hart",
+		"Income": 43681
+	},
+	{
+		"County": "  Havant",
+		"Income": 29820
+	},
+	{
+		"County": "  New Forest",
+		"Income": 31535
+	},
+	{
+		"County": "  Rushmoor",
+		"Income": 34922
+	},
+	{
+		"County": "  Test Valley",
+		"Income": 34218
+	},
+	{
+		"County": "  Winchester",
+		"Income": 41231
+	},
+	{
+		"County": "Kent",
+		"Income": 34563
+	},
+	{
+		"County": "  Ashford",
+		"Income": 32132
+	},
+	{
+		"County": "  Canterbury",
+		"Income": 34116
+	},
+	{
+		"County": "  Dartford",
+		"Income": 36047
+	},
+	{
+		"County": "  Dover",
+		"Income": 34308
+	},
+	{
+		"County": "  Gravesham",
+		"Income": 32987
+	},
+	{
+		"County": "  Maidstone",
+		"Income": 34102
+	},
+	{
+		"County": "  Sevenoaks",
+		"Income": 36430
+	},
+	{
+		"County": "  Folkestone and Hythe",
+		"Income": 32060
+	},
+	{
+		"County": "  Swale",
+		"Income": 35009
+	},
+	{
+		"County": "  Thanet",
+		"Income": 29587
+	},
+	{
+		"County": "  Tonbridge and Malling",
+		"Income": 37778
+	},
+	{
+		"County": "  Tunbridge Wells",
+		"Income": 39798
+	},
+	{
+		"County": "Oxfordshire",
+		"Income": 36146
+	},
+	{
+		"County": "  Cherwell",
+		"Income": 34858
+	},
+	{
+		"County": "  Oxford",
+		"Income": 33309
+	},
+	{
+		"County": "  South Oxfordshire",
+		"Income": 41240
+	},
+	{
+		"County": "  Vale of White Horse",
+		"Income": 39045
+	},
+	{
+		"County": "  West Oxfordshire",
+		"Income": 32201
+	},
+	{
+		"County": "Surrey",
+		"Income": 45687
+	},
+	{
+		"County": "  Elmbridge",
+		"Income": "x"
+	},
+	{
+		"County": "  Epsom and Ewell",
+		"Income": "x"
+	},
+	{
+		"County": "  Guildford",
+		"Income": 48215
+	},
+	{
+		"County": "  Mole Valley",
+		"Income": 37641
+	},
+	{
+		"County": "  Reigate and Banstead",
+		"Income": 42842
+	},
+	{
+		"County": "  Runnymede",
+		"Income": "x"
+	},
+	{
+		"County": "  Spelthorne",
+		"Income": 38810
+	},
+	{
+		"County": "  Surrey Heath",
+		"Income": 44983
+	},
+	{
+		"County": "  Tandridge",
+		"Income": 46788
+	},
+	{
+		"County": "  Waverley",
+		"Income": 47107
+	},
+	{
+		"County": "  Woking",
+		"Income": 39741
+	},
+	{
+		"County": "West Sussex",
+		"Income": 33216
+	},
+	{
+		"County": "  Adur",
+		"Income": 30251
+	},
+	{
+		"County": "  Arun",
+		"Income": 27037
+	},
+	{
+		"County": "  Chichester",
+		"Income": 33524
+	},
+	{
+		"County": "  Crawley",
+		"Income": 32595
+	},
+	{
+		"County": "  Horsham",
+		"Income": 36218
+	},
+	{
+		"County": "  Mid Sussex",
+		"Income": 39498
+	},
+	{
+		"County": "  Worthing",
+		"Income": 30350
+	},
+	{
+		"County": "South West ",
+		"Income": 30653
+	},
+	{
+		"County": "Bath and North East Somerset UA",
+		"Income": 35345
+	},
+	{
+		"County": "Bournemouth, Christchurch and Poole UA",
+		"Income": 31862
+	},
+	{
+		"County": "Bristol, City of UA",
+		"Income": 32238
+	},
+	{
+		"County": "Dorset UA",
+		"Income": 30561
+	},
+	{
+		"County": "North Somerset UA",
+		"Income": 32491
+	},
+	{
+		"County": "Plymouth UA",
+		"Income": 25656
+	},
+	{
+		"County": "South Gloucestershire UA",
+		"Income": 31817
+	},
+	{
+		"County": "Swindon UA",
+		"Income": 34161
+	},
+	{
+		"County": "Torbay UA",
+		"Income": 25355
+	},
+	{
+		"County": "Cornwall UA",
+		"Income": 27014
+	},
+	{
+		"County": "Isles of Scilly ",
+		"Income": "x"
+	},
+	{
+		"County": "Wiltshire UA",
+		"Income": 32009
+	},
+	{
+		"County": "Devon",
+		"Income": 27702
+	},
+	{
+		"County": "  East Devon",
+		"Income": 31403
+	},
+	{
+		"County": "  Exeter",
+		"Income": 29292
+	},
+	{
+		"County": "  Mid Devon",
+		"Income": 27831
+	},
+	{
+		"County": "  North Devon",
+		"Income": 25340
+	},
+	{
+		"County": "  South Hams",
+		"Income": 28265
+	},
+	{
+		"County": "  Teignbridge",
+		"Income": 27325
+	},
+	{
+		"County": "  Torridge",
+		"Income": 24572
+	},
+	{
+		"County": "  West Devon",
+		"Income": 23139
+	},
+	{
+		"County": "Gloucestershire",
+		"Income": 34333
+	},
+	{
+		"County": "  Cheltenham",
+		"Income": 38610
+	},
+	{
+		"County": "  Cotswold",
+		"Income": 34455
+	},
+	{
+		"County": "  Forest of Dean",
+		"Income": 32813
+	},
+	{
+		"County": "  Gloucester",
+		"Income": 30531
+	},
+	{
+		"County": "  Stroud",
+		"Income": 32948
+	},
+	{
+		"County": "  Tewkesbury",
+		"Income": "x"
+	},
+	{
+		"County": "Somerset",
+		"Income": 29327
+	},
+	{
+		"County": "  Mendip",
+		"Income": 31288
+	},
+	{
+		"County": "  Sedgemoor",
+		"Income": 28212
+	},
+	{
+		"County": "  South Somerset",
+		"Income": 28797
+	},
+	{
+		"County": "  Somerset West and Taunton",
+		"Income": 28996
+	},
+	{
+		"County": "Wales  ",
+		"Income": 29035
+	},
+	{
+		"County": "Isle of Anglesey / Ynys M\u00f4n",
+		"Income": 27368
+	},
+	{
+		"County": "Gwynedd / Gwynedd",
+		"Income": 26382
+	},
+	{
+		"County": "Conwy / Conwy",
+		"Income": 29692
+	},
+	{
+		"County": "Denbighshire / Sir Ddinbych",
+		"Income": 24859
+	},
+	{
+		"County": "Flintshire / Sir y Fflint",
+		"Income": 32992
+	},
+	{
+		"County": "Wrexham / Wrecsam",
+		"Income": 30188
+	},
+	{
+		"County": "Powys / Powys",
+		"Income": 27958
+	},
+	{
+		"County": "Ceredigion / Ceredigion",
+		"Income": 29859
+	},
+	{
+		"County": "Pembrokeshire / Sir Benfro",
+		"Income": 28737
+	},
+	{
+		"County": "Carmarthenshire / Sir Gaerfyrddin",
+		"Income": 29412
+	},
+	{
+		"County": "Swansea / Abertawe",
+		"Income": 27912
+	},
+	{
+		"County": "Neath Port Talbot / Castell-nedd Port Talbot",
+		"Income": 28520
+	},
+	{
+		"County": "Bridgend / Pen-y-bont ar Ogwr",
+		"Income": 30406
+	},
+	{
+		"County": "Vale of Glamorgan / Bro Morgannwg",
+		"Income": 29561
+	},
+	{
+		"County": "Cardiff / Caerdydd",
+		"Income": 30301
+	},
+	{
+		"County": "Rhondda Cynon Taf / Rhondda Cynon Taf",
+		"Income": 27239
+	},
+	{
+		"County": "Merthyr Tydfil / Merthyr Tudful",
+		"Income": 28179
+	},
+	{
+		"County": "Caerphilly / Caerffili",
+		"Income": 28621
+	},
+	{
+		"County": "Blaenau Gwent / Blaenau Gwent",
+		"Income": 27053
+	},
+	{
+		"County": "Torfaen / Torfaen",
+		"Income": 29161
+	},
+	{
+		"County": "Monmouthshire / Sir Fynwy",
+		"Income": 32918
+	},
+	{
+		"County": "Newport / Casnewydd",
+		"Income": 28189
+	},
+	{
+		"County": "Scotland ",
+		"Income": 31697
+	},
+	{
+		"County": "Aberdeen City",
+		"Income": 31759
+	},
+	{
+		"County": "Aberdeenshire",
+		"Income": 31871
+	},
+	{
+		"County": "Angus",
+		"Income": 29977
+	},
+	{
+		"County": "Argyll and Bute",
+		"Income": 26803
+	},
+	{
+		"County": "Clackmannanshire",
+		"Income": 32517
+	},
+	{
+		"County": "Dumfries and Galloway",
+		"Income": 25890
+	},
+	{
+		"County": "Dundee City",
+		"Income": 27197
+	},
+	{
+		"County": "East Ayrshire",
+		"Income": 28605
+	},
+	{
+		"County": "East Dunbartonshire",
+		"Income": 38425
+	},
+	{
+		"County": "East Lothian",
+		"Income": 32431
+	},
+	{
+		"County": "East Renfrewshire",
+		"Income": 43778
+	},
+	{
+		"County": "City of Edinburgh",
+		"Income": 36931
+	},
+	{
+		"County": "Falkirk",
+		"Income": 30238
+	},
+	{
+		"County": "Fife",
+		"Income": 29094
+	},
+	{
+		"County": "Glasgow City",
+		"Income": 30777
+	},
+	{
+		"County": "Highland",
+		"Income": 29717
+	},
+	{
+		"County": "Inverclyde",
+		"Income": 28568
+	},
+	{
+		"County": "Midlothian",
+		"Income": 30973
+	},
+	{
+		"County": "Moray",
+		"Income": 27667
+	},
+	{
+		"County": "Na h-Eileanan Siar",
+		"Income": 26116
+	},
+	{
+		"County": "North Ayrshire",
+		"Income": 30485
+	},
+	{
+		"County": "North Lanarkshire",
+		"Income": 30715
+	},
+	{
+		"County": "Orkney Islands",
+		"Income": 29044
+	},
+	{
+		"County": "Perth and Kinross",
+		"Income": 34990
+	},
+	{
+		"County": "Renfrewshire",
+		"Income": 31701
+	},
+	{
+		"County": "Scottish Borders",
+		"Income": 28327
+	},
+	{
+		"County": "Shetland Islands",
+		"Income": 32026
+	},
+	{
+		"County": "South Ayrshire",
+		"Income": 31388
+	},
+	{
+		"County": "South Lanarkshire",
+		"Income": 32006
+	},
+	{
+		"County": "Stirling",
+		"Income": "x"
+	},
+	{
+		"County": "West Dunbartonshire",
+		"Income": 32205
+	},
+	{
+		"County": "West Lothian",
+		"Income": 31487
+	}
+]
