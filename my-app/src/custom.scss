@@ -1,0 +1,38 @@
+.my-modal{
+    max-height: 90vh;
+}
+
+.modal-content {
+    align-items: center;
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.my-modal img{
+    max-height: 90vh;
+    object-fit: cover;
+}
+
+body::-webkit-scrollbar {
+    width: 0.75em;
+}
+  
+body::-webkit-scrollbar-thumb {
+  background: rgb(16, 29, 27);
+  border-radius: 10px;
+}
+
+body::-webkit-scrollbar-thumb:hover{
+    background: #b0d387;
+}
+
+body::-webkit-scrollbar-track {
+    background: #0f1817;
+}
+
+// overriding colors for badges on projects page
+$danger: #708855; // Language
+$warning: #324F10; // Library
+$info: #424937; // tool
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
